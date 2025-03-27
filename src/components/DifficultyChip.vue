@@ -1,7 +1,7 @@
 <script setup>
 const props = defineProps({
     difficulty: {
-        type: string,
+        type: String,
         required: true,
     }
 })
